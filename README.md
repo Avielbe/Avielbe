@@ -1,4 +1,4 @@
-[<img src='[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg](https://drive.usercontent.google.com/download?id=1gghMqFuuRHyNH5QYeYeLGgYpTfLU69Sj&export=view&authuser=0)' alt='profile' >] 
+![I am Junior Fullstack web & Mobile developer](https://tinypic.host/images/2024/05/26/Black-Technology-LinkedIn-Banner.png)
 
 ### Hi there 👋, my name is Aviel Ben-Eliyahu
 #### I am Junior Fullstack web & Mobile developer
