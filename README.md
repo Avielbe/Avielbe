@@ -2,7 +2,7 @@
 
 ### Hi there 👋, my name is Aviel Ben-Eliyahu
 
-#### I am Junior Fullstack web & Mobile developer
+#### I am a Junior Fullstack web & Mobile developer
  Full-Stack Developer with a passion for building innovative and user-centric web and mobile applications. Possesses strong front-end skills (ReactJS, Tailwind & Bootstrap) and back-end experience (NodeJS % ExpressJS) through a Full-Stack Developer Bootcamp and an internship. Eager to leverage technical skills and problem-solving abilities to contribute to a collaborative development team.
 
 ## Skills: 
@@ -11,6 +11,7 @@
 - ⚙️ Node JS
 - 🚅 Express JS
 - 🌱 MongoDB
+- 🖼 Tailwind
 
 ## Contact:
 - 📫 How to reach me: avielmbe@gmail.com 
