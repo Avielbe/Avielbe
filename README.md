@@ -15,6 +15,6 @@
 ## Contact:
 - 📫 How to reach me: avielmbe@gmail.com 
 
-## Social Media
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Avielbe)  [<img src='https://cdn.icon-icons.com/icons2/1826/PNG/512/4202085linkedinlogosocialsocialmedia-115603_115698.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/aviel-ben-eliyahu//)  
+## Social Media:
+[<img src='https://cdn-icons-png.flaticon.com/512/25/25231.png' alt='github' height='40'>](https://github.com/Avielbe)  [<img src='https://cdn.icon-icons.com/icons2/1826/PNG/512/4202085linkedinlogosocialsocialmedia-115603_115698.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/aviel-ben-eliyahu//)  
 
